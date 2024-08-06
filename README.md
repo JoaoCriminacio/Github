@@ -1,5 +1,4 @@
-# head-spinning-HTML+CSS+GSAP
+<h1>Fazendo alterações no readme</h1>
 
 
-
-![](head-gif.gif)
+<p><img src="img/The jays.jpeg" alt=""></p>
