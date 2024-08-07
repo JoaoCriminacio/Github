@@ -4,13 +4,13 @@
 
 ### git config --global user.email"SeuEmail" --> colocar seu email no Git;
 
-### git init --> Cria dentro da pasta atual uma nova pasta .git;
+### git init --> criar dentro da pasta atual uma nova pasta .git;
 
 ### git status --> verificar o status do commit;
 
 ### git log --> acessar o histórico dos commits (verificar quantos commits você tem, mostra a lista de todos os commits feitos);
 
-### git cat NomeDoArquivo --> pega um arquivo e mostra o que tem dentro dele, sem precisar abri-lo;
+### git cat NomeDoArquivo --> pegar um arquivo e mostrar o que tem dentro dele, sem precisar abri-lo;
 
 ### git clone LinkDoRepositório --> clonar repositório diretamente do GitHub;
 
@@ -18,7 +18,7 @@
 
 ### git commit -m "NomeDoCommit" --> salvar no repositório local;
 
-### git reset --> remove o commit da área de staging (volta o commit);
+### git reset --> remover o commit da área de staging (volta o commit);
 
 ### git diff CodigoDoCommitX CodigoDoCommitY --> diferenciar dois commits;
 
