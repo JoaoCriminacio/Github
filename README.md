@@ -8,7 +8,7 @@
 
 ### git status --> verificar o status do commit;
 
-### git log --> verificar o log do commit, verificar quantos commits você tem, mostra a lista de todos os commits feitos; 
+### git log --> acessar o histórico dos commits (verificar quantos commits você tem, mostra a lista de todos os commits feitos);
 
 ### git cat NomeDoArquivo --> pega um arquivo e mostra o que tem dentro dele, sem precisar abri-lo;
 
