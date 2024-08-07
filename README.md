@@ -1,8 +1,8 @@
 <h1>Comandos GitHub</h1>
 
-### git config --> global user.name"SeuNome" -- colocar seu nome no Git;
+### git config --global user.name"SeuNome" --> colocar seu nome no Git;
 
-### git config --> global user.email"SeuEmail" -- colocar seu email no Git;
+### git config --global user.email"SeuEmail" --> colocar seu email no Git;
 
 ### git init --> Cria dentro da pasta atual uma nova pasta .git;
 
