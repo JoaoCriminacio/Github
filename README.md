@@ -20,6 +20,8 @@
 ---
 ### `git restore .` - remover o commit da stage area (voltar o commit);
 ---
+### `git reset HEAD~1` - desfazer o último commit (remover o commit do repositório local);
+---
 ### `git diff CodigoDoCommitX CodigoDoCommitY` - diferenciar dois commits (verificar o que há de diferente);
 ---
 ### `git push` - enviar os arquivos para o GitHub (salvar os arquivos no repositório remoto);
@@ -30,5 +32,12 @@
 ---
 ### `git merge` - enviar os arquivos do repositório local, para o local;
 ---
+### `git stash` - enviar os arquivos do local, para o stash;
+---
+### `git stash apply stash{0}` - enviar os arquivos da stash, para o local;
+---
+### `git stash list` - listar os arquivos que estão na stash;
+---
 > [!NOTE]
-> Não é possível fazer os arquivos voltarem do repositório local para a stage area, pois eles já foram salvos.
+> Não é possível fazer os arquivos voltarem do repositório local para a stage area, pois eles já foram salvos.</br></br>
+> Stash normalmente é usado quando ocorre conflitos entre os arquivos.
