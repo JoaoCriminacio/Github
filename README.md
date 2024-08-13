@@ -24,4 +24,4 @@
 ---
 ### `git push` - enviar os arquivos para o GitHub (salvar os arquivos no repositório remoto);
 ---
-### `git pull` - realizar o download das alterações no repositório local (significa basicamente dois comandos, git merge e git fetch);
+### `git pull` - realizar o download das alterações no repositório local (significa basicamente dois comandos, git fetch e git merge);
