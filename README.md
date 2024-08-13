@@ -30,5 +30,5 @@
 ---
 ### `git merge` - enviar os arquivos do repositório local, para o local;
 ---
-> [!TIP]
+> [!NOTE]
 > Não é possível fazer os arquivos voltarem do repositório local para a stage area, pois eles já foram salvos.
