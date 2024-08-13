@@ -20,8 +20,6 @@
 ---
 ### `git restore .` - remover o commit da stage area (voltar o commit);
 ---
-### `git reset HEAD~1` - desfazer o último commit (remover o commit do repositório local);
----
 ### `git diff CodigoDoCommitX CodigoDoCommitY` - diferenciar dois commits (verificar o que há de diferente);
 ---
 ### `git push` - enviar os arquivos para o GitHub (salvar os arquivos no repositório remoto);
