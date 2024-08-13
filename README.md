@@ -22,6 +22,6 @@
 ---
 ### `git diff CodigoDoCommitX CodigoDoCommitY` - diferenciar dois commits (verificar o que há de diferente);
 ---
-### `git push` - adicionar os arquivos no git hub (empurrar os arquivos para o GitHub);
+### `git push` - enviar os arquivos para o GitHub (salvar os arquivos no repositório remoto);
 ---
 ### `git pull` - realizar o download das alterações no repositório local (significa basicamente dois comandos, git merge e git fetch);
