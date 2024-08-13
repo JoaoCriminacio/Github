@@ -18,7 +18,7 @@
 ---
 ### `git commit -m "NomeDoCommit"` - salvar os arquivos no repositório local;
 ---
-### `git reset` - remover o commit da stage area (voltar o commit);
+### `git restore .` - remover o commit da stage area (voltar o commit);
 ---
 ### `git diff CodigoDoCommitX CodigoDoCommitY` - diferenciar dois commits (verificar o que há de diferente);
 ---
