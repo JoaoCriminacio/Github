@@ -36,6 +36,9 @@
 ---
 ### `git stash list` - listar os arquivos que estão na stash;
 ---
+### `git tag -a v1.0 -m "Mensagem"` - adicionar uma tag para marcar o próximo commit;
+--- 
 > [!NOTE]
 > Não é possível fazer os arquivos voltarem do repositório local para a stage area, pois eles já foram salvos.</br></br>
-> Stash normalmente é usado quando ocorre conflitos entre os arquivos.
+> Stash normalmente é usado quando ocorre conflitos entre os arquivos.</br></br>
+> Head é o último commit.
