@@ -42,6 +42,14 @@
 --- 
 ### `git checkout NomeDaBranch` - alterar de branch;
 ---
+## Passos para fazer um pull request
+### 1 - Abrir o repositório;
+### 2 - Ir na aba Pull Request;
+### 3 - Clicar em New Pull Request;
+### 4 - Selecionar a Branch;
+### 5 - Clicar em Create Pull Request;
+### 6 - Fazer um Merge;
+---
 > [!NOTE]
 > Não é possível fazer os arquivos voltarem do repositório local para a stage area, pois eles já foram salvos.</br></br>
 > Stash normalmente é usado quando ocorre conflitos entre os arquivos.</br></br>
