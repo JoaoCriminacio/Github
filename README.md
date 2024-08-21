@@ -26,6 +26,8 @@
 ---
 ### `git pull` - realizar o download das alterações no repositório local (significa basicamente dois comandos, git fetch e git merge);
 ---
+### `git pull --rebase` -- deixar o histórico limpo;
+---
 ### `git fetch` - enviar os arquivos do repositório remoto, para o repositório local;
 ---
 ### `git merge` - enviar os arquivos do repositório local, para o local;
@@ -44,7 +46,7 @@
 ---
 ### `git checkout NomeDaBranch` - alterar de branch;
 ---
-### `git branch -d NomeDaBranch` - deletar uma nova branch;
+### `git branch -d NomeDaBranch` - deletar uma branch;
 ---
 ## Passos para fazer um pull request
 ### 1 - Abrir o repositório;
@@ -58,4 +60,3 @@
 > Não é possível fazer os arquivos voltarem do repositório local para a stage area, pois eles já foram salvos.</br></br>
 > Stash normalmente é usado quando ocorre conflitos entre os arquivos.</br></br>
 > Head é o último commit.
-> No pull request é uma solicitação de atualização
