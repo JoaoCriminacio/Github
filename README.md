@@ -48,6 +48,8 @@
 ---
 ### `git branch -d NomeDaBranch` - deletar uma branch;
 ---
+### `git cherry-pick HashCommit` - pegar o commit identificado pelo hash e aplicá-lo na branch atual onde você está;
+---
 ## Passos para fazer um pull request
 ### 1 - Abrir o repositório;
 ### 2 - Ir na aba Pull Request;
