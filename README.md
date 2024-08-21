@@ -30,6 +30,8 @@
 ---
 ### `git merge` - enviar os arquivos do repositório local, para o local;
 ---
+### `git merge NomeDaBranch` - juntar duas branchs;
+---
 ### `git stash` - enviar os arquivos do local, para o stash;
 ---
 ### `git stash apply stash{0}` - enviar os arquivos da stash, para o local;
