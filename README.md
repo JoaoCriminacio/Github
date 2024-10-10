@@ -58,6 +58,11 @@
 ### 5 - Clicar em Create Pull Request;
 ### 6 - Fazer um Merge;
 ---
+## Como fazer um Reviewer em um Pull Request
+### 1 - Crie ou abra um pull request: Vá para a aba "Pull requests" do seu repositório e crie um novo pull request ou abra um existente.
+### 2 - Adicionar Revisores: Na página do pull request, procure a seção "Reviewers" na barra lateral direita. Clique no ícone de lápis ou no botão "Reviewers" e selecione os usuários que você gostaria que revisassem o código.
+### 3 - Envie o Pull Request: Depois de adicionar revisores, finalize a criação ou atualização do pull request. Os revisores receberão notificações e poderão começar a revisar o código.
+---
 > [!NOTE]
 > Não é possível fazer os arquivos voltarem do repositório local para a stage area, pois eles já foram salvos.</br></br>
 > Stash normalmente é usado quando ocorre conflitos entre os arquivos.</br></br>
